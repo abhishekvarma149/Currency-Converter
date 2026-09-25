@@ -2,6 +2,8 @@
 
 A simple, fast, and responsive Currency Converter web application built with vanilla HTML, CSS, and JavaScript. This project allows users to check real-time exchange rates between different global currencies.
 
+**[🚀 View Live Demo](https://currency-converter-eight-pearl.vercel.app/)**
+
 ## ✨ Features
 - **Real-Time Exchange Rates:** Fetches up-to-date currency conversion rates using the [Frankfurter API](https://www.frankfurter.app/).
 - **Interactive UI:** Clean and intuitive user interface for selecting currencies and entering amounts.
